@@ -879,8 +879,8 @@ section {
   margin-right: 0;
 }
 
-.menu-item {
-max-device-width: 100%;
+.menu-item img {
+max-width: 100%;
 }
 
 # Specials
